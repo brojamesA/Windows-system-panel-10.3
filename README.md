@@ -4,7 +4,7 @@ brand new version is out full public
 Version 8.0
 
 
-About:Windows System Panel is a brand new program that has been fully released t othe public on this github repository
+About:Windows System Panel is a brand new program that has been fully released to the public on this github repository
 
 New update is coming soon!
 
